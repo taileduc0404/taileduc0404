@@ -1,9 +1,8 @@
 ## 🌐Welcome to My Profile
 <div align="center">
   <img height="150" src=""  />
-  [![Readme Riddle](https://github-readme-riddle.vercel.app/api?type=horizontal&theme=dark)](https://github.com/CodeWhiteWeb/github-readme-riddle)
+  
 </div>
-
 
 Hi there,
 I'm Duc Tai
