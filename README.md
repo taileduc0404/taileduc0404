@@ -3,8 +3,8 @@
   <img height="150" src=""  />
   
 </div>
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
-![til](https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png)
+![.](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+![.](https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png)
 
 Hi there,
 I'm Duc Tai
