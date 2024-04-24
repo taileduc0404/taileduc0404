@@ -1,10 +1,8 @@
 ## 🌐Welcome to My Profile
 <div align="center">
-  <img height="150" src=""  />
-  
+<img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif"/>
 </div>
-![.](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
-![.](https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png)
+
 
 Hi there,
 I'm Duc Tai
