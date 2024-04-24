@@ -1,6 +1,7 @@
 ## 🌐Welcome to My Profile
 <div align="center">
-<img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif"/>
+<!-- <img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif"/> -->
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjllNTdmbTJ5bmczNHlzNmQxM2tlYWZwMzE5YWZtN25mbHdhbzk1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dk57URqjqjHjNGHeMV/giphy.gif"/>
 </div>
 
 
